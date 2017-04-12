@@ -7,7 +7,7 @@ public class errThrow {
     public static void main(String[] args) {
         
         // Basic Try-Catch. Note that "Exception" is a catch all.
-        // Java has special expection types depending on the error (in this case, ArithmeticException)
+        // Java has special exception types depending on the error (in this case, ArithmeticException)
         try {
             int x = 10;
             int y = 0;
