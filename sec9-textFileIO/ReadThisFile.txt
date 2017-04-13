@@ -1,0 +1,10 @@
+Hello!
+My name is Tommy.
+And this is a text file…
+… It was just read into Java!
+
+:)
+
+:D
+
+;P
